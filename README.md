@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
-## 基于Java+Springboot的OA办公自动化人事管理系统(源码+数据库)108
+## 基于Java+Springboot的OA办公自动化人事管理系统(源码+数据库+11000字论文)108
 
 ## 一、系统介绍
 
